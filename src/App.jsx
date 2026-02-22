@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import products from "./components/data.js"
-import ProductList from "./components/ProductList";
-import Cart from "./components/Cart";
+import ProductList from "./components/Temp.jsx"
+import Cart from "./components/Cart.jsx";
 
 
 function App() {
