@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import products from "./components/data.js"
-import ProductList from "./components/Temp.jsx"
+import ProductList from "./components/ProductList.jsx"
 import Cart from "./components/Cart.jsx";
 
 
