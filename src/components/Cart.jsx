@@ -1,6 +1,6 @@
 import { useState } from "react";
 import CartItem from "./CartItem";
-import Modal from "./Modal";
+import Modal from "./modal.jsx";
 
 function Cart({ cart, setCart }) {
   const [showModal, setShowModal] = useState(false);
